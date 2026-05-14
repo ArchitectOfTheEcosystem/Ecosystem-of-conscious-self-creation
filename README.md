@@ -1,18 +1,9 @@
-# OnlyForCollege
+# Work with six HTML pages (use of forms)
 
-
-Project for homework from college
-
+Project for homework for college
 
 Stack🧰: 
 HTML; 
-CSS; 
-JavaScript; 
-React; 
-TypeScript; 
-Node.js; 
-Docker;
-
 
 Interesting: using AI for create projects
 
