@@ -1,4 +1,4 @@
-# Work with six HTML pages (use of forms)
+# Work with six HTML pages (working with forms)
 
 Project for homework for college
 
