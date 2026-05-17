@@ -18,5 +18,5 @@ LICENSE: MIT
 
 
 Contacts: 
-          Telegram: @ArchitectoftheEcosystem
-          Github: https://github.com/ArchitectOfTheEcosystem
+          Telegram: @ArchitectoftheEcosystem ;
+          Github: https://github.com/ArchitectOfTheEcosystem ;
