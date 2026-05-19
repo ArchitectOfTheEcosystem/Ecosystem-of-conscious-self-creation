@@ -1,41 +1,31 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ru">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<title>6 страниц - первая</title>
-	</head>
-	<body>
-		<header>
-			<h1>Добро пожаловать на шестистраничный сайт!</h1>
-			<nav>
-				<ul>
-					<li><a href="index.html">первая</a></li>
-					<li><a href="page1.html">вторая</a></li>
-					<li><a href="page2.html">третья</a></li>
-					<li><a href="page3.html">четвертая</a></li>
-					<li><a href="page4.html">пятая</a></li>
-					<li><a href="page5.html">шестая</a></li>
-				</ul>
-			</nav>
-		</header>
-
-		<main>
-			<p>Этот сайт содержит шесть HTML-страниц. Используйте ссылки выше, чтобы перейти к каждой странице.</p>
-			<section>
-				<h2>Быстрые ссылки</h2>
-				<ul>
-					<li><a href="page1.html">вторая - контакт</a></li>
-					<li><a href="page2.html">третья - отзывы</a></li>
-					<li><a href="page3.html">четвертая - опрос</a></li>
-					<li><a href="page4.html">пятая - подписка</a></li>
-					<li><a href="page5.html">шестая - регистрация</a></li>
-				</ul>
-			</section>
-		</main>
-
-		<footer>
-			<p>Пример, шесть страниц</p>
-		</footer>
-	</body>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Self-work with six pages site</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<form action="" method="post">
+	<fieldset>
+		<legend>Регистрация</legend>
+		<div>
+			<label for="login">Логин:</label><br>
+			<input type="text" id="login" name="login" required>
+		</div>
+		<div>
+			<label for="password">Пароль:</label><br>
+			<input type="password" id="password" name="password" required autocomplete="off">
+		</div>
+		<div>
+			<label for="email">Почта:</label><br>
+			<input type="email" id="email" name="email" required>
+		</div>
+		<div>
+			<button type="submit">Отправить</button>
+		</div>
+	</fieldset>
+</form>
+</body>
 </html>
