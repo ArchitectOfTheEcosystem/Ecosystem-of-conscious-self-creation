@@ -4,7 +4,7 @@ Project for homework for college
 
 Stack🧰: 
 HTML; 
-
+CSS;
 Interesting: using AI for create projects
 
 
