@@ -1,6 +1,6 @@
-# Work with six HTML pages (working with forms)
+# create self-project - Ecosystem of the self-creation (project)
 
-Project for homework for college
+A project for advanced navigation in my works
 
 Stack🧰: 
 HTML; 
@@ -9,9 +9,8 @@ Interesting: using AI for create projects
 
 
 TODO: 
-mini-projects ; 
-pet-projects ;
-Experiments ; 
+Advanced navigation;
+Register to leave feedback on my work and contact me;
 
 
 LICENSE: MIT
