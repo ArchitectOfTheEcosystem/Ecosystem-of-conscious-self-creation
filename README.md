@@ -1,4 +1,4 @@
-# create self-project - Ecosystem of the self-creation (project)
+# Create self-project - Ecosystem of the self-creation (project)
 
 A project for advanced navigation in my works
 
